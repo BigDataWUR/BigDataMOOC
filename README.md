@@ -8,5 +8,5 @@
 * [Introduction to Python](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main?filepath=notebooks/module%202/Introduction%20to%20Python.ipynb)  
 * [Map](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main?filepath=notebooks/module%202/map.ipynb)  
 * [mapReduce](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main?filepath=notebooks/module%202/map_reduce.ipynb)  
-* [Pure functions](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main?filepath=notebooks/module%202/pure_functions.ipynb)  
+* [Pure functions](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main?filepath=notebooks/module%202/pure%20functions.ipynb)  
 * [Reduce](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main?filepath=notebooks/module%202/reduce.ipynb)  
