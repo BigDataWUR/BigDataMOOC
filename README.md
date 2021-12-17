@@ -12,3 +12,8 @@
 * [mapReduce](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main?filepath=notebooks/module%202/map_reduce.ipynb)  
 * [Pure functions](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main?filepath=notebooks/module%202/pure%20functions.ipynb)  
 * [Reduce](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main?filepath=notebooks/module%202/reduce.ipynb)  
+
+
+[Module 3](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main?filepath=notebooks/module%203):  
+* [Introduction to Apache Spark](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main?filepath=notebooks/module%203/Introduction%20to%20Apache%20Spark.ipynb)  
+* [Dataframes](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main?filepath=notebooks/module%203/Dataframes.ipynb)  
