@@ -1,6 +1,6 @@
 # test_binder
 
-[![Build Notebook Container](https://github.com/chrispyl/test_binder/actions/workflows/binder.yml/badge.svg?event=push)](https://github.com/BigDataWUR/BigDataMOOC/actions/workflows/binder.yml)
+[![Build Notebook Container](https://github.com/BigDataWUR/BigDataMOOC/actions/workflows/binder.yml/badge.svg?event=push)](https://github.com/BigDataWUR/BigDataMOOC/actions/workflows/binder.yml)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BigDataWUR/BigDataMOOC/main) <-- default binder badge
 
