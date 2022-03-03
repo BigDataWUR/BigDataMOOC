@@ -12,6 +12,7 @@ jupyter trust /home/jovyan/notebooks/*.ipynb
 
 #module 2 notebooks
 jupyter trust /home/jovyan/notebooks/module 2/*.ipynb
+#module 2 notebooks
 jupyter trust /home/jovyan/notebooks/module 4/*.ipynb
 
 jupyter nbconvert --to notebook --execute --inplace /home/jovyan/notebooks/setup.ipynb
