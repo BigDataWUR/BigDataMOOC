@@ -9,3 +9,5 @@ jupyter-server-proxy==3.2.1
 sparkmonitor==2.1.1
 
 jupyterquiz==1.8
+
+nptdms==1.4.0
