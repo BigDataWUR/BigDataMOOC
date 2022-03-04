@@ -8,14 +8,14 @@ mv ~/BigDataMOOC_content/datasets ~/BigDataMOOC_content/notebooks .
 rm -rf BigDataMOOC_content
 
 #setup and spark test notebooks
-jupyter trust /home/jovyan/notebooks/*.ipynb
+jupyter trust ~/notebooks/*.ipynb
 
 #module 2 notebooks
-jupyter trust /home/jovyan/notebooks/module 2/*.ipynb
+jupyter trust ~/notebooks/module 2/*.ipynb
 #module 2 notebooks
-jupyter trust /home/jovyan/notebooks/module 4/*.ipynb
+jupyter trust ~/notebooks/module 4/*.ipynb
 
-jupyter nbconvert --to notebook --execute --inplace /notebooks/setup.ipynb
+jupyter nbconvert --to notebook --execute --inplace ~/notebooks/setup.ipynb
 
 rm ~/notebooks/setup.ipynb ~/notebooks/dummy.ipynb 
 
