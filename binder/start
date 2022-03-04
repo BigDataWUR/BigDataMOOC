@@ -4,7 +4,7 @@ ipython profile create
 echo "c.InteractiveShellApp.extensions.append('sparkmonitor.kernelextension')" >>  $(ipython profile locate default)/ipython_kernel_config.py
 
 git clone https://github.com/BigDataWUR/BigDataMOOC_content.git
-mv /home/jovyan/BigDataMOOC_content/datasets /home/jovyan/BigDataMOOC_content/notebooks /home/jovyan/
+mv ~/BigDataMOOC_content/datasets ~/BigDataMOOC_content/notebooks .
 rm -rf BigDataMOOC_content
 
 #setup and spark test notebooks
@@ -15,7 +15,9 @@ jupyter trust /home/jovyan/notebooks/module 2/*.ipynb
 #module 2 notebooks
 jupyter trust /home/jovyan/notebooks/module 4/*.ipynb
 
-jupyter nbconvert --to notebook --execute --inplace /home/jovyan/notebooks/setup.ipynb
+jupyter nbconvert --to notebook --execute --inplace ~/notebooks/setup.ipynb
+
+rm ~/notebooks/setup.ipynb ~/notebooks/dummy.ipynb 
 
 cat >> ~/.profile << EOF
 export JAVA_HOME=/usr/lib/jvm/java-1.11.0-openjdk-amd64
