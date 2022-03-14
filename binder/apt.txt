@@ -1,7 +1,4 @@
-openjdk-11-jre-headless
 openjdk-11-jdk
 
 openssh-server
 openssh-client
-
-nano
